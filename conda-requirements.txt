@@ -1,0 +1,9 @@
+beautiful-soup
+bitarray
+nltk
+numpy
+pandas
+reportlab
+scikit-learn
+scipy
+sqlalchemy
